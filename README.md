@@ -22,7 +22,7 @@ Además, se genera y captura una `IndexOutOfBoundsException` para demostrar el c
 
 ## ▶️ Ejecución
 1. Compila y ejecuta la clase principal del proyecto.
-2. Se crearán objetos `Producto` y `Venta`, demostrando el manejo de excepciones.
+2. Se crearán objetos `Product` y `Sale`, demostrando el manejo de excepciones.
 3. Se lanzará y capturará la excepción `VentaBuidaException` si la venta está vacía.
 4. Se manejará un `IndexOutOfBoundsException` para evitar errores en colecciones.
 

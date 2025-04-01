@@ -16,7 +16,7 @@ Además, se genera y captura una `IndexOutOfBoundsException` para demostrar el c
 
 ## 🛠️ Instalación
 1. Clona este repositorio:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone (https://github.com/Laufari/S1.02.-Exceptiones-NIvel1.git)
 2. Abre el proyecto en tu IDE preferido. Este proyecto esta realizado en Intellij IDEA
 3. Asegúrate de que el JDK 21 esté configurado.
 
